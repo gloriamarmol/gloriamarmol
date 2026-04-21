@@ -37,7 +37,7 @@ Incluye funciones para agregar, editar y eliminar tareas.
 
 ## 📫 Contacto
 
-* 💼 www.linkedin.com/in/de-muñoz-glorita-026409222
+* 💼 LinkedIn: www.linkedin.com/in/de-muñoz-glorita-026409222
 
 * 📧 Correo: demunozglorita@gmail.com
 
